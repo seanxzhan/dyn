@@ -1,6 +1,0 @@
-README.md
-pyproject.toml
-src/dyn.egg-info/PKG-INFO
-src/dyn.egg-info/SOURCES.txt
-src/dyn.egg-info/dependency_links.txt
-src/dyn.egg-info/top_level.txt
