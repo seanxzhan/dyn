@@ -1,1 +1,5 @@
 *.egg-info
+*.ini
+__pycache__
+.DS_Store
+*.pdf
